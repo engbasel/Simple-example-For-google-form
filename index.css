@@ -1,0 +1,142 @@
+body {
+  background-color: rgb(183, 226, 43);
+}
+.Head_bar {
+  background-color: antiquewhite;
+  text-align: center;
+  border-radius: 25px;
+  border-width: 100px;
+}
+.First_name {
+  color: rgb(202, 3, 33);
+  display: inline;
+  padding-right: 85px;
+  position: relative;
+  left: 53px;
+  top: -1px;
+}
+.scound_name {
+  display: inline;
+  color: rgb(43, 163, 57);
+  padding-right: 89px;
+  position: relative;
+  left: 39px;
+  top: -1px;
+}
+
+.first {
+  display: inline;
+}
+.scound {
+  display: inline;
+  /* padding-right: 100px; */
+}
+.main_div {
+  text-align: center;
+}
+.mail {
+  padding-right: 300px;
+}
+.mail_faild {
+  padding-right: 175px;
+}
+.bass_Text {
+  padding: 105px;
+  display: inline;
+}
+.confirm_pass {
+  padding-right: 80px;
+  display: inline;
+}
+.pass_input {
+  display: inline;
+}
+.confairm_pass_input {
+  display: inline;
+}
+.GEnder {
+  display: inline;
+
+  padding-right: 290px;
+}
+
+.name_input {
+  padding-right: 85px;
+  display: inline;
+}
+.hope {
+  display: inline;
+}
+.checkboxs {
+  display: inline;
+}
+.all_elemant {
+  padding-left: 75px;
+}
+.sorce_input {
+  padding-left: 100px;
+  display: inline;
+}
+.sorce {
+  padding-left: 177px;
+  display: inline;
+}
+.range {
+  display: inline;
+}
+.select {
+  display: inline;
+}
+.VARIBALS {
+  padding-left: 100px;
+}
+.select {
+  padding-left: 100px;
+}
+.DETA {
+  display: inline;
+  padding-right: 10px;
+}
+.AGE {
+  display: inline;
+  padding-right: 10px;
+}
+.BIO {
+  padding-right: 335px;
+}
+.textarea {
+  padding-right: 122px;
+}
+.requared {
+  padding-right: 200px;
+  display: inline;
+}
+
+.creat {
+  background-color: bisque;
+  display: inline;
+  /* padding-right: 100px; */
+  background-size: 10px;
+}
+.last {
+  padding-top: 10px;
+  padding-left: 140px;
+  /* padding: 10px; */
+}
+.main_div {
+  background-color: rgb(48, 93, 114);
+  position: absolute;
+  /* top: 50%; */
+  /* bottom: 50%; */
+  top: 5%;
+  left: 25%;
+  box-shadow: 5px 5px 5px 5px rgb(24, 10, 69);
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(15, 15, 13);
+  width: fit-content;
+  text-align: center;
+}
+.last_elemant {
+  padding-left: 110px;
+}
